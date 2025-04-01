@@ -2,7 +2,7 @@
 
 Tento jednoduchý účetní program v Pythonu vznikl kombinací krve, potu a… AI.  
 Naprogramovala ho AI pomocí Visual Studio Code, a pomáhá s přehledem o přijatých a vydaných fakturách.  
-Je to takovej domácí účetní.
+Je to takovej domácí podvodné účetnictví.
 
 ## 🧠 Co to umí?
 
@@ -16,7 +16,7 @@ Je to takovej domácí účetní.
 
 - Jazyk: Python
 - GUI: Tkinter
-- Datové úložiště: Json
+- Datové úložiště: invoices.json
 - Verze: 0.1 "Zatím se to jen hemží"
 
 ## 🚀 Jak to spustit
