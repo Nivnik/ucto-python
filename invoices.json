@@ -1,0 +1,45 @@
+{
+    "prijate": [
+        {
+            "cislo": "1",
+            "zakaznik": "test",
+            "datum": "2025-03-28",
+            "polozky": [
+                {
+                    "nazev": "polozka",
+                    "cena": 200.0
+                },
+                {
+                    "nazev": "test",
+                    "cena": 20.0
+                },
+                {
+                    "nazev": "teeeee",
+                    "cena": 20.0
+                },
+                {
+                    "nazev": "ponozka",
+                    "cena": 200.0
+                }
+            ],
+            "poznamka": "poznamka"
+        },
+        {
+            "cislo": "2",
+            "zakaznik": "servisni dily",
+            "datum": "2025-03-28",
+            "polozky": [
+                {
+                    "nazev": "baterie",
+                    "cena": 20.0
+                },
+                {
+                    "nazev": "lcd",
+                    "cena": 500.0
+                }
+            ],
+            "poznamka": "poznámka"
+        }
+    ],
+    "vydane": []
+}
